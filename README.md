@@ -9,3 +9,4 @@ Here is my project utilizing the grid function in tkinter to make an array of 10
 
 **Testing**
 
+A pytest was added to test if the values being input and searched for were the same. Both bad values and good values were given to see if the output was being read correctly.
